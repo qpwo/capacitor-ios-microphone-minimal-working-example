@@ -15,3 +15,8 @@ cp Info.plist ios/App/App/Info.plist # or just add the NSMicrophoneUsageDescript
 npx cap run ios # choose one of the simulators
 # grant microphone permissions etc and you should see a visualization
 ```
+
+## Screenshots
+
+![](request.png)
+![](working.png)
